@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Sushan N S",
+    "status": "Pending",
+    "bio": "Electronic Engineer",
+    "email": "sus@dev.com"
+  },
+  {
+    "name": "Yogendra P",
+    "status": "Request sent",
+    "bio": "Java Developer",
+    "email": "yogi@dev.com"
+  },
+  {
+    "name": "Sudar G",
+    "status": "Friends",
+    "bio": "Front-end Developer",
+    "email": "sudar@dev.com"
+  },
+  {
+    "name": "Kural E",
+    "status": "Friends",
+    "bio": "Vetti mundam",
+    "email": "kural@dev.com"
+  },
+  {
+    "name": "Saswata B",
+    "status": "Friends",
+    "bio": "java dev",
+    "email": "saswata@dev.com"
+  }
+]
